@@ -1,5 +1,4 @@
-from flask import Flask
-from flask import jsonify
+from flask import Flask, jsonify
 from pymongo import MongoClient
 from flask_pymongo import PyMongo
 
